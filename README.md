@@ -70,7 +70,8 @@ The dashboard is structured into **two interconnected pages** to ensure a logica
 
 ## Page 1: Executive Sales Overview
 
-<img src="https://raw.githubusercontent.com/Rishikesh23a/Super-Store-Sales-PowerBI/main/Screenshots/page1.png" width="100%"/>
+![Super Store Sales Overview](Screenshots/page1.png)
+
 
 ### Purpose
 Page 1 provides a **high-level snapshot** of business performance.  
