@@ -1,5 +1,16 @@
 # Super Store Sales Dashboard
 
+
+<h2>Dashboard Screenshots</h2>
+
+<h3>Page 1 – Executive Sales Overview</h3>
+<img src="https://raw.githubusercontent.com/Rishikesh23a/Super-Store-Sales-PowerBI/main/Screenshots/page1.png" width="100%"/>
+
+<h3>Page 2 – Detailed Operational Analysis</h3>
+<img src="https://raw.githubusercontent.com/Rishikesh23a/Super-Store-Sales-PowerBI/main/Screenshots/page2.png" width="100%"/>
+
+
+
 ## Overview
 The **Super Store Sales Dashboard** is a comprehensive **Power BI analytics project** developed to analyze retail sales performance using historical transactional data.  
 The dashboard is designed to support **business decision-making** by presenting key performance indicators, sales trends, regional performance, and operational behavior in a clear and interactive manner.
