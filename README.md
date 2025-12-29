@@ -70,6 +70,9 @@ The dashboard is structured into **two interconnected pages** to ensure a logica
 
 ## Page 1: Executive Sales Overview
 
+
+![Page 1 – Executive Sales Overview](Screenshots/page1.png)
+
 ### Purpose
 Page 1 provides a **high-level snapshot** of business performance.  
 It is designed for stakeholders who need a **quick understanding of key metrics and trends**.
